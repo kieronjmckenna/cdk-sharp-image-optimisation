@@ -66,7 +66,7 @@ This repo was created to go along side a medium article I wrote here:
 
 https://kieron-mckenna.medium.com/s3-image-optimization-and-compression-with-the-cdk-a-typescript-lambda-and-sharp-894b272d2d8e
 
-I wanted to use the cdk to optimise images when they're uploaded to an s3 bucket using the cdk. There was a few headaches I ran into that I hope this repo and the above article will help people in the future
+I wanted to use the cdk to optimise images when they're uploaded to an s3 bucket. There was a few headaches I ran into that I hope this repo and the above article will help people avoid in the future
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
