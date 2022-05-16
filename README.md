@@ -72,8 +72,6 @@ I wanted to use the cdk to optimise images when they're uploaded to an s3 bucket
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [AWS-CDK V2](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
 - [Sharp](https://sharp.pixelplumbing.com/)
 
@@ -120,4 +118,3 @@ Me: [@KieronMckenna7](https://twitter.com/KieronMckenna7)
 Project Link: [https://github.com/kieronjmckenna/cdk-sharp-image-optimisation](https://github.com/kieronjmckenna/cdk-sharp-image-optimisation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-```
