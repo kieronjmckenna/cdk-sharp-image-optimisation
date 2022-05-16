@@ -5,12 +5,5 @@ import { Construct } from 'constructs';
 export class ImageOptimisationStack extends Stack {
   constructor(scope: Construct, id: string, props?: StackProps) {
     super(scope, id, props);
-
-    // The code that defines your stack goes here
-
-    // example resource
-    // const queue = new sqs.Queue(this, 'ImageOptimisationQueue', {
-    //   visibilityTimeout: cdk.Duration.seconds(300)
-    // });
   }
 }
